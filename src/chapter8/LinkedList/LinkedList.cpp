@@ -1,0 +1,34 @@
+// LinkedList.cpp: implementation of the LinkedList class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "LinkedList.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+LinkedList::LinkedList()
+{
+
+}
+
+LinkedList::~LinkedList()
+{
+
+}
+
+
+
+void LinkedList::Iterator::insert(int x)
+{
+
+}
+
+int LinkedList::Iterator::erase()
+{
+	return 0;
+}
+
+void main(){
+}
