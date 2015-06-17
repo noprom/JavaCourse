@@ -5,10 +5,14 @@
 // you can have as many threads as you want. 
 // <applet code=Counter4 width=200 height=600>
 // <param name=size value="12"></applet>
+package chapter14;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Counter4 extends JApplet {
   private JButton start = new JButton("Start");

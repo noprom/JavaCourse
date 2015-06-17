@@ -2,11 +2,12 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Selecting different looks & feels.
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import com.bruceeckel.swing.*;
 
 public class LookAndFeel extends JFrame {
   String[] choices = { 

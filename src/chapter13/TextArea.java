@@ -4,12 +4,18 @@
 // Using the JTextArea control.
 // <applet code=TextArea width=475 height=425>
 // </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+import chapter9.com.bruceeckel.util.*;
+
 import javax.swing.*;
-import java.awt.event.*;
 import java.awt.*;
-import java.util.*;
-import com.bruceeckel.swing.*;
-import com.bruceeckel.util.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 
 public class TextArea extends JApplet {
   JButton 

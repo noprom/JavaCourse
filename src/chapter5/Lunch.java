@@ -4,7 +4,7 @@
 // Demonstrates class access specifiers.
 // Make a class effectively private
 // with private constructors:
-
+package chapter5;
 class Soup {
   private Soup() {}
   // (1) Allow creation via static method:

@@ -4,10 +4,14 @@
 // Icon behavior in Jbuttons.
 // <applet code=Faces
 //  width=250 height=100></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Faces extends JApplet {
   // The following path information is necessary

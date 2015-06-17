@@ -1,7 +1,12 @@
 //: c09:FillTest.java
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
-import com.bruceeckel.util.*;
+package chapter9;
+
+import chapter9.com.bruceeckel.util.Arrays2;
+import chapter9.com.bruceeckel.util.Collections2;
+import chapter9.com.bruceeckel.util.Generator;
+
 import java.util.*;
 
 public class FillTest {

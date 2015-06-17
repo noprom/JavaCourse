@@ -3,7 +3,8 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Can't access friendly member
 // in another class.
-import dessert.*;
+package chapter5;
+import chapter5.dessert.*;
 
 public class ChocolateChip extends Cookie {
   public ChocolateChip() {

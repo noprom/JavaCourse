@@ -4,7 +4,7 @@
 // An anonymous inner class that performs 
 // initialization. A briefer version
 // of Parcel5.java.
-
+package chapter8;
 public class Parcel8 {
   // Argument must be final to use inside 
   // anonymous inner class:

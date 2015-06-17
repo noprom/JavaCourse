@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Accesses a class in a 
 // separate compilation unit.
-
+package chapter5;
 class Cake {
   public static void main(String[] args) {
     Pie x = new Pie();

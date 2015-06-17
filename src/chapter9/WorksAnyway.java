@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // In special cases, things just 
 // seem to work correctly.
+package chapter9;
 import java.util.*;
 
 class MouseTrap {

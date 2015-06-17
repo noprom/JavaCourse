@@ -4,11 +4,13 @@
 // Different Swing borders.
 // <applet code=Borders
 //  width=500 height=300></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.border.*;
-import com.bruceeckel.swing.*;
+import java.awt.*;
 
 public class Borders extends JApplet {
   static JPanel showBorder(Border b) {

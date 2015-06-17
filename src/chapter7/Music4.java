@@ -2,6 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Abstract classes and methods.
+package chapter7;
 import java.util.*;
 
 abstract class Instrument {

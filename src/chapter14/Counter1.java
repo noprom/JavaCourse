@@ -4,10 +4,14 @@
 // A non-responsive user interface.
 // <applet code=Counter1 width=300 height=100>
 // </applet>
+package chapter14;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import java.awt.event.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Counter1 extends JApplet {
   private int count = 0;

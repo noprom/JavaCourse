@@ -4,9 +4,11 @@
 // An application and an applet.
 // <applet code=Applet1c width=100 height=50>
 // </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.*;
+
 import javax.swing.*;
-import java.awt.*;
-import com.bruceeckel.swing.*;
 
 public class Applet1c extends JApplet {
   public void init() {

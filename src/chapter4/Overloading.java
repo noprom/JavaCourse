@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstration of both constructor
 // and ordinary method overloading.
+package chapter4;
 import java.util.*;
 
 class Tree {

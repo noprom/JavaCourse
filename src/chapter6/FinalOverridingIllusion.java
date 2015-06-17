@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // It only looks like you can override
 // a private or private final method.
-
+package chapter6;
 class WithFinals {
   // Identical to "private" alone:
   private final void f() {

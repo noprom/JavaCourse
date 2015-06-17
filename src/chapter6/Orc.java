@@ -2,6 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // The protected keyword.
+package chapter6;
 import java.util.*;
 
 class Villain {

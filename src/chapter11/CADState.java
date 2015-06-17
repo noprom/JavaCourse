@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Saving and restoring the state of a 
 // pretend CAD system.
+package chapter11;
 import java.io.*;
 import java.util.*;
 

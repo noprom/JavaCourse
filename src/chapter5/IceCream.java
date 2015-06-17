@@ -2,6 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstrates "private" keyword.
+package chapter5;
 
 class Sundae {
   private Sundae() {

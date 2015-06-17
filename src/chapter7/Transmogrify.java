@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Dynamically changing the behavior of
 // an object via composition.
-
+package chapter7;
 abstract class Actor {
   abstract void act();
 }

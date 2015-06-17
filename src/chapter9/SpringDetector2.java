@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // A class that's used as a key in a HashMap 
 // must override hashCode() and equals().
+package chapter9;
 import java.util.*;
 
 class Groundhog2 {

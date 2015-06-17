@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // An anonymous inner class that calls 
 // the base-class constructor.
-
+package chapter8;
 public class Parcel7 {
   public Wrapping wrap(int x) {
     // Base constructor call:

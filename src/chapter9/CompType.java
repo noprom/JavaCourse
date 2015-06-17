@@ -2,8 +2,12 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Implementing Comparable in a class.
-import com.bruceeckel.util.*;
-import java.util.*;
+package chapter9;
+
+import chapter9.com.bruceeckel.util.*;
+
+import java.util.Arrays;
+import java.util.Random;
 
 public class CompType implements Comparable<CompType> {
   int i;

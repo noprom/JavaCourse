@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Nesting a class within a method.
-
+package chapter8;
 public class Parcel4 {
   public Destination dest(String s) {
     class PDestination

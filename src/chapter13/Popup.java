@@ -4,10 +4,16 @@
 // Creating popup menus with Swing.
 // <applet code=Popup
 //  width=300 height=200></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 public class Popup extends JApplet {
   JPopupMenu popup = new JPopupMenu();

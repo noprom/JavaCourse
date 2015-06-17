@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Explicit static initialization
 // with the "static" clause.
-
+package chapter4;
 class Cup {
   Cup(int marker) {
     System.out.println("Cup(" + marker + ")");

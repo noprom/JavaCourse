@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Polymorphism in Java.
-
+package chapter7;
 class Shape { 
   void draw() {}
   void erase() {} 

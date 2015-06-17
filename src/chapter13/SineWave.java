@@ -4,10 +4,14 @@
 // Drawing with Swing, using a JSlider.
 // <applet code=SineWave
 //  width=700 height=400></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import javax.swing.event.*;
+import javax.swing.event.ChangeEvent;
+import javax.swing.event.ChangeListener;
 import java.awt.*;
-import com.bruceeckel.swing.*;
 
 class SineDraw extends JPanel {
   static final int SCALEFACTOR = 200;

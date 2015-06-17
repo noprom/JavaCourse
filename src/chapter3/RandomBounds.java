@@ -2,6 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Does Math.random() produce 0.0 and 1.0?
+package chapter3;
 
 public class RandomBounds {
   static void usage() {

@@ -4,9 +4,12 @@
 // Vertical and horizontal BoxLayouts.
 // <applet code=Box1 
 // width=450 height=200> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
 
 public class Box1 extends JApplet {
   public void init() {

@@ -4,10 +4,14 @@
 // Demonstrates JoptionPane.
 // <applet code=MessageBoxes 
 // width=200 height=150> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import java.awt.event.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class MessageBoxes extends JApplet {
   JButton[] b = { new JButton("Alert"), 

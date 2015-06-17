@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstrates initialization order.
-
+package chapter4;
 // When the constructor is called to create a
 // Tag object, you'll see a message:
 class Tag {

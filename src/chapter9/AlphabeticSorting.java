@@ -2,8 +2,11 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Keeping upper and lowercase letters together.
-import com.bruceeckel.util.*;
-import java.util.*;
+package chapter9;
+
+import chapter9.com.bruceeckel.util.*;
+
+import java.util.Arrays;
 
 public class AlphabeticSorting {
   public static void main(String[] args) {

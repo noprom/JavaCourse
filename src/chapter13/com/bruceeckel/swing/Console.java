@@ -4,8 +4,10 @@
 // Tool for running Swing demos from the
 // console, both applets and JFrames.
 package chapter13.com.bruceeckel.swing;
+
 import javax.swing.*;
-import java.awt.event.*;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 
 public class Console {
   // Create a title string from the class name:

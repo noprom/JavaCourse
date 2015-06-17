@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Using finalize() to detect an object that 
 // hasn't been properly cleaned up.
-
+package chapter4;
 class Book {
   boolean checkedOut = false;
   Book(boolean checkOut) { 

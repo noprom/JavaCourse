@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Inheritance, constructors and arguments.
-
+package chapter6;
 class Game {
   Game(int i) {
     System.out.println("Game constructor");

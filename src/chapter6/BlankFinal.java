@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // "Blank" final data members.
-
+package chapter6;
 class Poppet { }
 
 class BlankFinal {

@@ -2,8 +2,12 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Implementing a Comparator for a class.
-import com.bruceeckel.util.*;
-import java.util.*;
+package chapter9;
+
+import chapter9.com.bruceeckel.util.Arrays2;
+
+import java.util.Arrays;
+import java.util.Comparator;
 
 class CompTypeComparator implements Comparator {
   public int compare(Object o1, Object o2) {

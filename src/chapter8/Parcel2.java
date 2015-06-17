@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Returning a reference to an inner class.
-
+package chapter8;
 public class Parcel2 {
   class Contents {
     private int i = 11;

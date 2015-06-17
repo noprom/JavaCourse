@@ -2,7 +2,8 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Uses the library.
-import dessert.*;
+package chapter5;
+import chapter5.dessert.*;
 
 public class Dinner {
   public Dinner() {

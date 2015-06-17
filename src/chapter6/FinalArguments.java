@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Using "final" with method arguments.
-
+package chapter6;
 class Gizmo {
   public void spin() {}
 }

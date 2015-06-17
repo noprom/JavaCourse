@@ -4,7 +4,7 @@
 // Overloading a base-class method name
 // in a derived class does not hide the
 // base-class versions.
-
+package chapter6;
 class Homer {
   char doh(char c) {
     System.out.println("doh(char)");

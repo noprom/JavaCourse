@@ -2,7 +2,8 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Uses the tools library.
-import com.bruceeckel.tools.*;
+package chapter5;
+import chapter5.com.bruceeckel.tools.*;
 
 public class ToolTest {
   public static void main(String[] args) {

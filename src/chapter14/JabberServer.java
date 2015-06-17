@@ -3,8 +3,11 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Very simple server that just
 // echoes whatever the client sends.
+package chapter14;
+
 import java.io.*;
-import java.net.*;
+import java.net.ServerSocket;
+import java.net.Socket;
 
 public class JabberServer {  
   // Choose a port outside of the range 1-1024:

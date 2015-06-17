@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Promotion of primitives and overloading.
-
+package chapter4;
 public class PrimitiveOverloading {
   // boolean can't be automatically converted
   static void prt(String s) { 

@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Composition with public objects.
-
+package chapter6;
 class Engine {
   public void start() {}
   public void rev() {}

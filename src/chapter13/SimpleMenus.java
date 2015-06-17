@@ -3,10 +3,14 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // <applet code=SimpleMenus 
 // width=200 height=75> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.*;
+
 import javax.swing.*;
-import java.awt.event.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class SimpleMenus extends JApplet {
   JTextField t = new JTextField(15);

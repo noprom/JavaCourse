@@ -5,11 +5,16 @@
 // be made vastly more complex than this.
 // <applet code=Trees
 //  width=250 height=250></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
+import javax.swing.tree.DefaultMutableTreeNode;
+import javax.swing.tree.DefaultTreeModel;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.tree.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 // Takes an array of Strings and makes the first
 // element a node and the rest leaves:

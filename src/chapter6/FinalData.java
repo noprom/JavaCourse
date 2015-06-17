@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // The effect of final on fields.
-
+package chapter6;
 class Value {
   int i = 1;
 }

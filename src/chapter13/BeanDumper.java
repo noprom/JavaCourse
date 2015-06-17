@@ -4,12 +4,16 @@
 // Introspecting a Bean.
 // <applet code=BeanDumper width=600 height=500>
 // </applet>
-import java.beans.*;
-import java.lang.reflect.*;
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.beans.*;
+import java.lang.reflect.Method;
 
 public class BeanDumper extends JApplet {
   JTextField query = 

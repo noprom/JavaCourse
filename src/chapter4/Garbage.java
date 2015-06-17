@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstration of the garbage
 // collector and finalization
-
+package chapter4;
 class Chair {
   static boolean gcrun = false;
   static boolean f = false;

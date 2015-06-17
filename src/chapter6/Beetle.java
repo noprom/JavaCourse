@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // The full process of initialization.
-
+package chapter6;
 class Insect {
   int i = 9;
   int j;

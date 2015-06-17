@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Passing objects to methods may not be what
 // you're used to.
+package chapter3;
 
 class Letter {
   char c;

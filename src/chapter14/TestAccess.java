@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // How threads can access other threads
 // in a parent thread group.
+package chapter14;
 
 public class TestAccess {
   public static void main(String[] args) {

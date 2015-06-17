@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Two ways that a class can 
 // implement multiple interfaces.
-
+package chapter8;
 interface A {}
 interface B {}
 

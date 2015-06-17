@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Constructors and polymorphism
 // don't produce what you might expect.
-
+package chapter7;
 abstract class Glyph {
   abstract void draw();
   Glyph() {

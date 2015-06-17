@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Shows default initial values.
-
+package chapter4;
 class Measurement {
   boolean t;
   char c='a';

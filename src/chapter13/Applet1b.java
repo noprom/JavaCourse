@@ -4,6 +4,7 @@
 // Embedding the applet tag for Appletviewer.
 // <applet code=Applet1b width=100 height=50>
 // </applet>
+package chapter13;
 import javax.swing.*;
 import java.awt.*;
 

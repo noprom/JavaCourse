@@ -4,11 +4,15 @@
 // Controlling the scrollbars in a JScrollPane.
 // <applet code=JScrollPanes width=300 height=725>
 // </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
+import javax.swing.border.Border;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.border.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class JScrollPanes extends JApplet {
   JButton 

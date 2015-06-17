@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Specifying initial values in a
 // class definition.
-
+package chapter4;
 class Bowl {
   Bowl(int marker) {
     System.out.println("Bowl(" + marker + ")");

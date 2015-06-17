@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstrates short-circuiting behavior.
 // with logical operators.
+package chapter3;
 
 public class ShortCircuit {
   static boolean test1(int val) {

@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Array initialization.
-
+package chapter4;
 public class ArrayInit {
   public static void main(String[] args) {
     Integer[] a = {

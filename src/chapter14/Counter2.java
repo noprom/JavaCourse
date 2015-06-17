@@ -4,10 +4,14 @@
 // A responsive user interface with threads.
 // <applet code=Counter2 width=300 height=100>
 // </applet>
+package chapter14;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Counter2 extends JApplet {
   private class SeparateSubTask extends Thread {

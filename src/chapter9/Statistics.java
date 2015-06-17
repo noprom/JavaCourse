@@ -2,6 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Simple demonstration of HashMap.
+package chapter9;
 import java.util.*;
 
 class Counter { 

@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Constructor calls during inheritance.
-
+package chapter6;
 class Art {
   Art() {
     System.out.println("Art constructor");

@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Java "Instance Initialization."
-
+package chapter4;
 class Mug {
   Mug(int marker) {
     System.out.println("Mug(" + marker + ")");

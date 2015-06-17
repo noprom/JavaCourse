@@ -3,7 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Using "instance initialization" to perform 
 // construction on an anonymous inner class.
-
+package chapter8;
 public class Parcel9 {
   public Destination 
   dest(final String dest, final float price) {

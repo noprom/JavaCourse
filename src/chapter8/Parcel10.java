@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Static inner classes.
-
+package chapter8;
 public class Parcel10 {
   private static class PContents 
   implements Contents {

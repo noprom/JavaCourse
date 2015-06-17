@@ -1,3 +1,4 @@
+package chapter4;
 class Bird {
   int m;
   Bird(int i){}
@@ -6,6 +7,6 @@ class Bird {
 
 public class CustomConstructor {
   public static void main(String[] args) {
-    Bird nc = new Bird(); 
+    Bird nc = new Bird(1);
   }
 }

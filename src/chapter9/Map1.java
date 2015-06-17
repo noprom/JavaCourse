@@ -2,8 +2,9 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Things you can do with Maps.
+package chapter9;
 import java.util.*;
-import com.bruceeckel.util.*;
+import chapter9.com.bruceeckel.util.*;
 
 public class Map1 {
   static Collections2.StringPairGenerator geo = 

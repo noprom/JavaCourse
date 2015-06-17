@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Calling constructors with "this."
-
+package chapter4;
 public class Flower {
   int petalCount = 0;
   String s = new String("null");

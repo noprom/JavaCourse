@@ -2,8 +2,11 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // A demonstration hashed Map.
+package chapter9;
+
+import chapter9.com.bruceeckel.util.*;
+
 import java.util.*;
-import com.bruceeckel.util.*;
 
 public class SimpleHashMap extends AbstractMap {
   // Choose a prime number for the hash table

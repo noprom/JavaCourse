@@ -1,6 +1,7 @@
 //: c09:MouseListTest.java
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
+package chapter9;
 public class MouseListTest {
   public static void main(String[] args) {
     MouseList mice = new MouseList();

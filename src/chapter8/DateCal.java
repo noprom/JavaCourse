@@ -1,4 +1,5 @@
-import static c08.Months.*;
+package chapter8;
+import static chapter8.Months.*;
 
 public class DateCal {
 

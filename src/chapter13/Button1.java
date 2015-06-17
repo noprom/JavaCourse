@@ -4,9 +4,12 @@
 // Putting buttons on an applet.
 // <applet code=Button1 width=200 height=50>
 // </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
 
 public class Button1 extends JApplet {
   JButton 

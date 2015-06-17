@@ -4,11 +4,14 @@
 // Show events as they happen.
 // <applet code=TrackEvent
 //  width=700 height=500></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.*;
-import com.bruceeckel.swing.*;
+import java.util.HashMap;
 
 public class TrackEvent extends JApplet {
   HashMap h = new HashMap();

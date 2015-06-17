@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Composition for code reuse.
-
+package chapter6;
 class WaterSource {
   private String s;
   WaterSource() {

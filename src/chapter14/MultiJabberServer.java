@@ -2,9 +2,13 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // A server that uses multithreading 
-// to handle any number of clients.
+// to handle any number of clients.package chapter14;
+package chapter14;
+
 import java.io.*;
-import java.net.*;
+import java.net.ServerSocket;
+import java.net.Socket;
+
 
 class ServeOneJabber extends Thread {
   private Socket socket;

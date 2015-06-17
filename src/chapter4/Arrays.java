@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Arrays of primitives.
-
+package chapter4;
 public class Arrays {
   public static void main(String[] args) {
     int[] a1 = { 1, 2, 3, 4, 5 };

@@ -3,12 +3,12 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // A graphical Bean.
 package chapter13.bangbean;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.io.*;
-import java.util.*;
-import com.bruceeckel.swing.*;
+import java.io.Serializable;
+import java.util.TooManyListenersException;
 
 public class BangBean extends JPanel
      implements Serializable {

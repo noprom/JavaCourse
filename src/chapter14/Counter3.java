@@ -5,10 +5,14 @@
 // main class into a thread.
 // <applet code=Counter3 width=300 height=100>
 // </applet>
+package chapter14;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Counter3 
     extends JApplet implements Runnable {

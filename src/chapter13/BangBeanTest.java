@@ -3,12 +3,16 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // <applet code=BangBeanTest 
 // width=400 height=500></applet>
-import bangbean.*;
+package chapter13;
+
+import chapter13.bangbean.BangBean;
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.TooManyListenersException;
 
 public class BangBeanTest extends JApplet {
   JTextField txt = new JTextField(20);

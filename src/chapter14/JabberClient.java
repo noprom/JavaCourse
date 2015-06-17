@@ -4,8 +4,11 @@
 // Very simple client that just sends
 // lines to the server and reads lines
 // that the server sends.
-import java.net.*;
+package chapter14;
+
 import java.io.*;
+import java.net.InetAddress;
+import java.net.Socket;
 
 public class JabberClient {
   public static void main(String[] args) 

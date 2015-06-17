@@ -4,12 +4,15 @@
 // Simple demonstration of JTable.
 // <applet code=Table
 //  width=350 height=200></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
+import javax.swing.event.TableModelEvent;
+import javax.swing.event.TableModelListener;
+import javax.swing.table.AbstractTableModel;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.table.*;
-import javax.swing.event.*;
-import com.bruceeckel.swing.*;
 
 public class Table extends JApplet {
   JTextArea txt = new JTextArea(4, 20);

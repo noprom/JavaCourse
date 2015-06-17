@@ -5,7 +5,8 @@
 // control system, all in a single class. Inner
 // classes allow you to encapsulate different
 // functionality for each type of event.
-import controller.*;
+package chapter8;
+import chapter8.controller.*;
 
 public class GreenhouseControls 
     extends Controller {

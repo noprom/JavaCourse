@@ -5,10 +5,13 @@
 // and creating your own components.
 // <applet code=TicTacToe
 //  width=200 height=100></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import com.bruceeckel.swing.*;
 
 public class TicTacToe extends JApplet {
   JTextField 

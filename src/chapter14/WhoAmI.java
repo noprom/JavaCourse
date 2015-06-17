@@ -3,7 +3,9 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Finds out your network address when
 // you're connected to the Internet.
-import java.net.*;
+package chapter14;
+
+import java.net.InetAddress;
 
 public class WhoAmI {
   public static void main(String[] args) 

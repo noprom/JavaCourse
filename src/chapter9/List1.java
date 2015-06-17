@@ -2,8 +2,11 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Things you can do with Lists.
+package chapter9;
+
+import chapter9.com.bruceeckel.util.*;
+
 import java.util.*;
-import com.bruceeckel.util.*;
 
 public class List1 {
   public static List fill(List a) {

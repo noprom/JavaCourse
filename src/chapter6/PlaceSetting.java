@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Combining composition & inheritance.
-
+package chapter6;
 class Plate {
   Plate(int i) {
     System.out.println("Plate constructor");

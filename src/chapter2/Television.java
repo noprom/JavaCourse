@@ -1,3 +1,4 @@
+package chapter2;
 public class Television {
     public Television() {
         System.out.println("Now create an object of Television.");

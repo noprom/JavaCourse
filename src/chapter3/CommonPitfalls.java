@@ -1,8 +1,10 @@
+package chapter3;
+
 public class CommonPitfalls {
   public static void main(String[] args) {
   	int x=1;
   	int y=2;
-  	while(x=y){
+  	while(x==y){
   		System.out.println("Equal");
   		x++;
   	}

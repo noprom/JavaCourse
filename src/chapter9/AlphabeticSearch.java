@@ -2,8 +2,11 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Searching with a Comparator.
-import com.bruceeckel.util.*;
-import java.util.*;
+package chapter9;
+
+import chapter9.com.bruceeckel.util.*;
+
+import java.util.Arrays;
 
 public class AlphabeticSearch {
   public static void main(String[] args) {

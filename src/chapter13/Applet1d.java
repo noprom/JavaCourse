@@ -4,9 +4,11 @@
 // Console runs applets from the command line.
 // <applet code=Applet1d width=100 height=50>
 // </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import java.awt.*;
-import com.bruceeckel.swing.*;
 
 public class Applet1d extends JApplet {
   public void init() {

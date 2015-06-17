@@ -4,12 +4,14 @@
 // Various Swing buttons.
 // <applet code=Buttons
 //  width=350 height=100></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
+import javax.swing.plaf.basic.BasicArrowButton;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.plaf.basic.*;
-import javax.swing.border.*;
-import com.bruceeckel.swing.*;
 
 public class Buttons extends JApplet {
   JButton jb = new JButton("JButton");

@@ -2,9 +2,13 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Building the anonymous inner class "in-place."
-import java.io.*;
-import java.util.*;
-import com.bruceeckel.util.*;
+package chapter11;
+
+import chapter9.com.bruceeckel.util.AlphabeticComparator;
+
+import java.io.File;
+import java.io.FilenameFilter;
+import java.util.Arrays;
 
 public class DirList3 {
   public static void main(final String[] args) {

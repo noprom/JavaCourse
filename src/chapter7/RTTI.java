@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Downcasting & Run-time Type
 // Identification (RTTI).
+package chapter7;
 import java.util.*;
 
 class Useful {

@@ -3,12 +3,17 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // <applet code=List width=250
 // height=375> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import javax.swing.event.*;
+import javax.swing.border.Border;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.border.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class List extends JApplet {
   String[] flavors = { "Chocolate", "Strawberry",

@@ -1,3 +1,4 @@
+package chapter1;
 import javax.swing.JFrame;
 
 public class SimpleFrame extends JFrame{

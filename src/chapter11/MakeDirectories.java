@@ -3,6 +3,7 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstrates the use of the File class to
 // create directories and manipulate files.
+package chapter11;
 import java.io.*;
 
 public class MakeDirectories {

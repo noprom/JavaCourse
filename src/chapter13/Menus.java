@@ -5,10 +5,13 @@
 // mnemonics (shortcuts) and action commands.
 // <applet code=Menus width=300
 // height=100> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import com.bruceeckel.swing.*;
 
 public class Menus extends JApplet {
   String[] flavors = { "Chocolate", "Strawberry",

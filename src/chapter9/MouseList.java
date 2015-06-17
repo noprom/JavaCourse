@@ -2,6 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // A type-conscious ArrayList.
+package chapter9;
 import java.util.*;
 
 public class MouseList {

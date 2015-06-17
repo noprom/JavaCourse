@@ -1,6 +1,7 @@
 //: c03:EqualsMethod.java
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
+package chapter3;
 
 public class EqualsMethod {
   public static void main(String[] args) {

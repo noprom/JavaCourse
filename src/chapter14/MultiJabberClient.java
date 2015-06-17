@@ -3,8 +3,12 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Client that tests the MultiJabberServer
 // by starting up multiple clients.
-import java.net.*;
+package chapter14;
+
 import java.io.*;
+import java.net.InetAddress;
+import java.net.Socket;
+
 
 class JabberClientThread extends Thread {
   private Socket socket;

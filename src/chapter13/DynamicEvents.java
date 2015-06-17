@@ -5,11 +5,15 @@
 // Also shows multiple actions for an event.
 // <applet code=DynamicEvents
 //  width=250 height=400></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 public class DynamicEvents extends JApplet {
   ArrayList v = new ArrayList();

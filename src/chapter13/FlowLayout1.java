@@ -4,9 +4,12 @@
 // Demonstrates FlowLayout.
 // <applet code=FlowLayout1 
 // width=300 height=250> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
 
 public class FlowLayout1 extends JApplet {
   public void init() {

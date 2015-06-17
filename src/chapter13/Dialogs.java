@@ -4,10 +4,14 @@
 // Creating and using Dialog Boxes.
 // <applet code=Dialogs width=125 height=75>
 // </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import java.awt.event.*;
 import java.awt.*;
-import com.bruceeckel.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 class MyDialog extends JDialog {
   public MyDialog(JFrame parent) {

@@ -4,9 +4,11 @@
 // Using Glue.
 // <applet code=Box3 
 // width=450 height=300> </applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
-import java.awt.*;
-import com.bruceeckel.swing.*;
 
 public class Box3 extends JApplet {
   public void init() {

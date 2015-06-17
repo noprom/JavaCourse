@@ -3,12 +3,15 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // You should write your Beans this way so they 
 // can run in a multithreaded environment.
+package chapter14;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.*;
-import java.io.*;
-import com.bruceeckel.swing.*;
+import java.io.Serializable;
+import java.util.ArrayList;
 
 public class BangBean2 extends JPanel 
     implements Serializable {

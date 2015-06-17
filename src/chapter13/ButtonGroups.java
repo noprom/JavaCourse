@@ -5,12 +5,14 @@
 // of different types of AbstractButton.
 // <applet code=ButtonGroups
 //  width=500 height=300></applet>
+package chapter13;
+
+import chapter13.com.bruceeckel.swing.Console;
+
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
 import java.awt.*;
-import java.awt.event.*;
-import javax.swing.border.*;
-import java.lang.reflect.*;
-import com.bruceeckel.swing.*;
+import java.lang.reflect.Constructor;
 
 public class ButtonGroups extends JApplet {
   static String[] ids = { 

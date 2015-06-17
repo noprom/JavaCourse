@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Order of constructor calls.
-
+package chapter7;
 class Meal {
   Meal() { System.out.println("Meal()"); }
 }

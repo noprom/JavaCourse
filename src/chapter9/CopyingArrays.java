@@ -2,8 +2,11 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Using System.arraycopy()
-import com.bruceeckel.util.*;
-import java.util.*;
+package chapter9;
+
+import chapter9.com.bruceeckel.util.Arrays2;
+
+import java.util.Arrays;
 
 public class CopyingArrays {
   public static void main(String[] args) {

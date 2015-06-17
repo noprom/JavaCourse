@@ -5,14 +5,16 @@
 // Swing class.
 // <applet code = ShowAddListeners 
 // width=500 height=400></applet>
+package chapter13;
+
+import chapter9.com.bruceeckel.util.*;
+import chapter13.com.bruceeckel.swing.Console;
 import javax.swing.*;
-import javax.swing.event.*;
 import java.awt.*;
-import java.awt.event.*;
-import java.lang.reflect.*;
-import java.io.*;
-import com.bruceeckel.swing.*;
-import com.bruceeckel.util.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Method;
 
 public class ShowAddListeners extends JApplet {
   Class cl;

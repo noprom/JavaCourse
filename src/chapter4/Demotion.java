@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demotion of primitives and overloading.
-
+package chapter4;
 public class Demotion {
   static void prt(String s) { 
     System.out.println(s); 
