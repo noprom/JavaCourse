@@ -7,7 +7,7 @@ EqualsMethod2.java		ok
 ForEach.java			ok
 LabeledFor.java			ok
 Literals.java			ok
-PassObject.java
+PassObject.java			ok
 ShortCircuit.java
 TestStr.java
 
