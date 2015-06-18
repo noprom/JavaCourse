@@ -11,7 +11,7 @@ PassObject.java			ok
 ShortCircuit.java		ok
 TestStr.java
 
-ArrayNew.java
+ArrayNew.java			ok
 Flower.java
 InitialValues.java
 Leaf.java

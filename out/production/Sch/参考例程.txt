@@ -8,7 +8,7 @@ ForEach.java			ok
 LabeledFor.java			ok
 Literals.java			ok
 PassObject.java			ok
-ShortCircuit.java
+ShortCircuit.java		ok
 TestStr.java
 
 ArrayNew.java
