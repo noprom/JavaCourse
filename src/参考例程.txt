@@ -1,11 +1,11 @@
-HelloDate.java	ok
-Television.java	
+HelloDate.java			ok
+Television.java			ok
 
-Assignment.java
-CommonPitfalls.java
-EqualsMethod2.java
-ForEach.java
-LabeledFor.java
+Assignment.java			ok
+CommonPitfalls.java		ok
+EqualsMethod2.java		ok
+ForEach.java			ok
+LabeledFor.java			ok
 Literals.java
 PassObject.java
 ShortCircuit.java

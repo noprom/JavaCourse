@@ -1,10 +1,10 @@
-HelloDate.java	ok
-Television.java	
+HelloDate.java			ok
+Television.java			ok
 
-Assignment.java
-CommonPitfalls.java
-EqualsMethod2.java
-ForEach.java
+Assignment.java			ok
+CommonPitfalls.java		ok
+EqualsMethod2.java		ok
+ForEach.java			ok
 LabeledFor.java
 Literals.java
 PassObject.java

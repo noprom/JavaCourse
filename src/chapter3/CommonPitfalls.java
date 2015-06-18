@@ -10,6 +10,6 @@ public class CommonPitfalls {
   	}
   	
   	if(x>0 & y>1)
-  		System.out.println("Greater than");	
-}
+  		System.out.println("Greater than");
+  }
 }
