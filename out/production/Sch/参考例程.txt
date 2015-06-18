@@ -1,5 +1,5 @@
-HelloDate.java
-Television.java
+HelloDate.java	ok
+Television.java	
 
 Assignment.java
 CommonPitfalls.java
