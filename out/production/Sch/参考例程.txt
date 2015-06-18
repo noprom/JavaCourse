@@ -5,8 +5,8 @@ Assignment.java			ok
 CommonPitfalls.java		ok
 EqualsMethod2.java		ok
 ForEach.java			ok
-LabeledFor.java
-Literals.java
+LabeledFor.java			ok
+Literals.java			ok
 PassObject.java
 ShortCircuit.java
 TestStr.java
