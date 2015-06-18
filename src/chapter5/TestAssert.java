@@ -4,8 +4,10 @@
 // Demonstrating the assertion tool.
 // Comment the following, and uncomment the
 // subsequent line to change assertion behavior:
-import com.bruceeckel.tools.debug.*;
-// import com.bruceeckel.tools.*;
+package chapter5;
+
+import chapter5.com.bruceeckel.tools.debug.Assert;
+
 
 public class TestAssert {
   public static void main(String[] args) {
