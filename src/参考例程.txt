@@ -19,7 +19,7 @@ Overloading.java		ok
 StaticInitialization.java	ok
 
 LibTest.java			ok
-Lunch.java
+Lunch.java			ok
 
 Beetle.java
 Chess.java
