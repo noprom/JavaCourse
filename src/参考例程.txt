@@ -13,7 +13,7 @@ TestStr.java
 
 ArrayNew.java			ok
 Flower.java			ok
-InitialValues.java
+InitialValues.java		ok
 Leaf.java
 Overloading.java
 StaticInitialization.java
