@@ -14,7 +14,7 @@ TestStr.java
 ArrayNew.java			ok
 Flower.java			ok
 InitialValues.java		ok
-Leaf.java
+Leaf.java			ok
 Overloading.java
 StaticInitialization.java
 

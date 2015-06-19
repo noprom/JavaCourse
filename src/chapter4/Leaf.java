@@ -14,6 +14,7 @@ public class Leaf {
   }
   public static void main(String[] args) {
     Leaf x = new Leaf();
+    x.print();
     x.increment().increment().increment().print();
   }
 } ///:~
