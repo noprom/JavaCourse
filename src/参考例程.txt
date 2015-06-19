@@ -16,7 +16,7 @@ Flower.java			ok
 InitialValues.java		ok
 Leaf.java			ok
 Overloading.java		ok
-StaticInitialization.java
+StaticInitialization.java	ok
 
 LibTest.java
 Lunch.java
