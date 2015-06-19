@@ -12,7 +12,7 @@ ShortCircuit.java		ok
 TestStr.java
 
 ArrayNew.java			ok
-Flower.java
+Flower.java			ok
 InitialValues.java
 Leaf.java
 Overloading.java
