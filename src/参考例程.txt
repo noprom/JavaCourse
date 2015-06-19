@@ -21,7 +21,7 @@ StaticInitialization.java	ok
 LibTest.java			ok
 Lunch.java			ok
 
-Beetle.java
+Beetle.java			ok
 Chess.java
 Detergent.java
 FinalData.java
