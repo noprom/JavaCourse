@@ -11,7 +11,7 @@ public class P {
   public static void rintln(String s) {
     System.out.println(s);
   }
-  //public static void rintln(int i) {
-  //  System.out.println(i);
-  //}
+  public static void rintln(int i) {
+    System.out.println(i);
+  }
 } ///:~
