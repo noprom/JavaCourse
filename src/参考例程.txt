@@ -25,9 +25,9 @@ Beetle.java			ok
 Chess.java			ok
 Detergent.java			ok
 FinalData.java			ok
-SprinklerSystem.java
+SprinklerSystem.java		ok
 
-Music3.java
+Music3.java			ok
 Shapes.java
 
 Parcel1.java~Parcel8.java
