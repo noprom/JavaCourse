@@ -14,7 +14,7 @@ class WaterSource {
 
 public class SprinklerSystem {
   private String valve1, valve2, valve3, valve4;
-  WaterSource source  /*= new WaterSource()*/;
+  WaterSource source  = new WaterSource();
   int i;
   float f;
   void print() {
