@@ -12,16 +12,16 @@ ShortCircuit.java		ok
 TestStr.java
 
 ArrayNew.java			ok
-Flower.java
-InitialValues.java
-Leaf.java
-Overloading.java
-StaticInitialization.java
+Flower.java			ok
+InitialValues.java		ok
+Leaf.java			ok
+Overloading.java		ok
+StaticInitialization.java	ok
 
-LibTest.java
-Lunch.java
+LibTest.java			ok
+Lunch.java			ok
 
-Beetle.java
+Beetle.java			ok
 Chess.java
 Detergent.java
 FinalData.java

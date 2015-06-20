@@ -22,7 +22,7 @@ LibTest.java			ok
 Lunch.java			ok
 
 Beetle.java			ok
-Chess.java
+Chess.java			ok
 Detergent.java
 FinalData.java
 SprinklerSystem.java
