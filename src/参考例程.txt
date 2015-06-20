@@ -24,7 +24,7 @@ Lunch.java			ok
 Beetle.java			ok
 Chess.java			ok
 Detergent.java			ok
-FinalData.java
+FinalData.java			ok
 SprinklerSystem.java
 
 Music3.java
