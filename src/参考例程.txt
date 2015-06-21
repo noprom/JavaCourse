@@ -40,7 +40,7 @@ CompType.java			ok
 ComparatorTest.java		ok
 PrintingContainers.java		ok
 CatsAndDogs.java		ok
-HamsterMaze.java
+HamsterMaze.java		ok
 JDK1.5中的新语法
 
 AlwaysFinally.java
