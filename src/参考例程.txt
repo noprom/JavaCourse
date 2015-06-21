@@ -35,7 +35,7 @@ Music5.java			ok
 Sequence.java			ok
 Lambda表达式的基本用法（参见Parcel6.java）	ok
 
-IceCream.java
+IceCream.java			ok
 CompType.java
 ComparatorTest.java
 PrintingContainers.java
