@@ -33,7 +33,7 @@ Shapes.java			ok
 Parcel1.java~Parcel8.java	ok
 Music5.java			ok
 Sequence.java			ok
-Lambda表达式的基本用法（参见Parcel6.java）
+Lambda表达式的基本用法（参见Parcel6.java）	ok
 
 IceCream.java
 CompType.java
