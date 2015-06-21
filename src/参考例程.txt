@@ -38,7 +38,7 @@ Lambda表达式的基本用法（参见Parcel6.java）	ok
 IceCream.java			ok
 CompType.java			ok
 ComparatorTest.java		ok
-PrintingContainers.java
+PrintingContainers.java		ok
 CatsAndDogs.java
 HamsterMaze.java
 JDK1.5中的新语法
