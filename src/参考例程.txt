@@ -31,7 +31,7 @@ Music3.java			ok
 Shapes.java			ok
 
 Parcel1.java~Parcel8.java	ok
-Music5.java
+Music5.java			ok
 Sequence.java
 Lambda表达式的基本用法（参见Parcel6.java）
 

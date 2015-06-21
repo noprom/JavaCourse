@@ -3,7 +3,6 @@
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Interfaces.
 package chapter8;
-import java.util.*;
 
 interface Instrument {
   // Compile-time constant:
