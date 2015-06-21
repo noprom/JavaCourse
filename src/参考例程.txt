@@ -39,7 +39,7 @@ IceCream.java			ok
 CompType.java			ok
 ComparatorTest.java		ok
 PrintingContainers.java		ok
-CatsAndDogs.java
+CatsAndDogs.java		ok
 HamsterMaze.java
 JDK1.5中的新语法
 
