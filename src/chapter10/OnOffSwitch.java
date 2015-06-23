@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Why use finally?
-
+package chapter10;
 class Switch {
   boolean state = false;
   boolean read() { return state; }

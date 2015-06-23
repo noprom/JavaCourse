@@ -5,7 +5,7 @@
 // exceptions specified in their base-class 
 // versions, or exceptions derived from the 
 // base-class exceptions.
-
+package chapter10;
 class BaseballException extends Exception {}
 class Foul extends BaseballException {}
 class Strike extends BaseballException {}

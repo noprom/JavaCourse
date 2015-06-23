@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstrating fillInStackTrace()
-
+package chapter10;
 public class Rethrowing {
   public static void f() throws Exception {
     System.out.println(

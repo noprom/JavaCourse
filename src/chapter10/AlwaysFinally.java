@@ -1,8 +1,9 @@
 //: c10:AlwaysFinally.java
+
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Finally is always executed.
-
+package chapter10;
 class FourException extends Exception {}
 
 public class AlwaysFinally {

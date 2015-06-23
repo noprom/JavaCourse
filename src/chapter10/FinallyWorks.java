@@ -2,7 +2,7 @@
 // From 'Thinking in Java, 2nd ed.' by Bruce Eckel
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // The finally clause is always executed.
-
+package chapter10;
 class ThreeException extends Exception {}
 
 public class FinallyWorks {
