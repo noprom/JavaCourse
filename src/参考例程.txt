@@ -43,7 +43,7 @@ CatsAndDogs.java		ok
 HamsterMaze.java		ok
 JDK1.5中的新语法
 
-AlwaysFinally.java
+AlwaysFinally.java		ok
 FinallyWorks.java
 Human.java
 WithFinally.java

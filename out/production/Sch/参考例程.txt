@@ -22,28 +22,28 @@ LibTest.java			ok
 Lunch.java			ok
 
 Beetle.java			ok
-Chess.java
-Detergent.java
-FinalData.java
-SprinklerSystem.java
+Chess.java			ok
+Detergent.java			ok
+FinalData.java			ok
+SprinklerSystem.java		ok
 
-Music3.java
-Shapes.java
+Music3.java			ok
+Shapes.java			ok
 
-Parcel1.java~Parcel8.java
-Music5.java
-Sequence.java
-Lambda表达式的基本用法（参见Parcel6.java）
+Parcel1.java~Parcel8.java	ok
+Music5.java			ok
+Sequence.java			ok
+Lambda表达式的基本用法（参见Parcel6.java）	ok
 
-IceCream.java
-CompType.java
-ComparatorTest.java
-PrintingContainers.java
-CatsAndDogs.java
-HamsterMaze.java
+IceCream.java			ok
+CompType.java			ok
+ComparatorTest.java		ok
+PrintingContainers.java		ok
+CatsAndDogs.java		ok
+HamsterMaze.java		ok
 JDK1.5中的新语法
 
-AlwaysFinally.java
+AlwaysFinally.java		ok
 FinallyWorks.java
 Human.java
 WithFinally.java
