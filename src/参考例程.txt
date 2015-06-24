@@ -46,7 +46,7 @@ JDK1.5中的新语法
 AlwaysFinally.java		ok
 FinallyWorks.java		ok
 Human.java			ok
-WithFinally.java
+WithFinally.java		ok
 
 IOStreamDemo.java
 Echo.java
