@@ -48,7 +48,7 @@ FinallyWorks.java		ok
 Human.java			ok
 WithFinally.java		ok
 
-IOStreamDemo.java
+IOStreamDemo.java		ok
 Echo.java
 Redirecting.java
 SimpleAndBetterRead.java
