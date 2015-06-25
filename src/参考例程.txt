@@ -49,7 +49,7 @@ Human.java			ok
 WithFinally.java		ok
 
 IOStreamDemo.java		ok
-Echo.java
+Echo.java			ok
 Redirecting.java
 SimpleAndBetterRead.java
 
