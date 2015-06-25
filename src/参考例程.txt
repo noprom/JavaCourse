@@ -54,7 +54,7 @@ Redirecting.java		ok
 SimpleAndBetterRead.java	ok
 
 Button2.java			ok
-Button2b.java
+Button2b.java			ok
 BorderLayout.java
 FlowLayout.java
 
