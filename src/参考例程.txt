@@ -56,7 +56,7 @@ SimpleAndBetterRead.java	ok
 Button2.java			ok
 Button2b.java			ok
 BorderLayout.java		ok
-FlowLayout.java
+FlowLayout.java			ok
 
 Counter1.java
 Counter2.java
