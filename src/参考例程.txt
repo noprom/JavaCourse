@@ -60,4 +60,4 @@ FlowLayout.java			ok
 
 Counter1.java			ok
 Counter2.java			ok
-Counter3.java
+Counter3.java			ok
