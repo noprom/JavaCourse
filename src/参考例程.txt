@@ -53,7 +53,7 @@ Echo.java			ok
 Redirecting.java		ok
 SimpleAndBetterRead.java	ok
 
-Button2.java
+Button2.java			ok
 Button2b.java
 BorderLayout.java
 FlowLayout.java
