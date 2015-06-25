@@ -16,7 +16,7 @@ public class SimpleAndBetterRead {
 	 * @param args
 	 */
 	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
+
 		System.out.println("What is your name?");
 		String name = input.readLine();
 		System.out.println("How old are you? What is your favorite double?");

@@ -51,7 +51,7 @@ WithFinally.java		ok
 IOStreamDemo.java		ok
 Echo.java			ok
 Redirecting.java		ok
-SimpleAndBetterRead.java
+SimpleAndBetterRead.java	ok
 
 Button2.java
 Button2b.java
