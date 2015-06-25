@@ -50,7 +50,7 @@ WithFinally.java		ok
 
 IOStreamDemo.java		ok
 Echo.java			ok
-Redirecting.java
+Redirecting.java		ok
 SimpleAndBetterRead.java
 
 Button2.java
